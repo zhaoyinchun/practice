@@ -1,0 +1,4 @@
+#
+#Thu Aug 30 10:04:36 CST 2018
+com.example.demo0825.Demo0825Application=org.springframework.stereotype.Component
+com.example.demo0825.controller.UserController=org.springframework.stereotype.Component

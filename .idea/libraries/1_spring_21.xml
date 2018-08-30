@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="1-spring-21个">
+    <CLASSES>
+      <root url="file://D:/Program Files/SpringBoot and Mubatis Jar/1-spring-21个" />
+      <root url="file://D:/Program Files/SpringBoot and Mubatis Jar/2-mybatisJar包-13个" />
+      <root url="file://D:/Program Files/SpringBoot and Mubatis Jar/3-mybatis-spring中间件jar包" />
+      <root url="file://D:/Program Files/SpringBoot and Mubatis Jar/6-aop联盟jar包" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://D:/Program Files/SpringBoot and Mubatis Jar/1-spring-21个" recursive="false" />
+    <jarDirectory url="file://D:/Program Files/SpringBoot and Mubatis Jar/2-mybatisJar包-13个" recursive="false" />
+    <jarDirectory url="file://D:/Program Files/SpringBoot and Mubatis Jar/3-mybatis-spring中间件jar包" recursive="false" />
+    <jarDirectory url="file://D:/Program Files/SpringBoot and Mubatis Jar/6-aop联盟jar包" recursive="false" />
+  </library>
+</component>
