@@ -27,7 +27,7 @@ public interface UserMapper {
     public List<User> GetList();
 
     @Insert("insert into students(name,age,position) values (#{name},#{age},#{position})")
-    public List<User> AddUser(User data);
+    public void AddUser(User data);
 //    void AddUser(String name,int age,String position); ???
 //    int AddUser(@Param("name") String name);???
 
